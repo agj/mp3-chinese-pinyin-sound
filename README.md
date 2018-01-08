@@ -1,4 +1,45 @@
+
 mp3-chinese-pinyin-sound
 ========================
 
 Mandarin Chinese pinyin sounds in MP3 format
+
+
+## File naming
+
+Sounds for tones 1 through 4 are included, named `ling1.mp3` for 'līng', `luu4.mp3` for 'lǜ', etc.
+
+
+## Lacking sounds
+
+Files for specific tones of certain syllables are not present:
+
+- biao1
+- cuo2
+- diang1
+- diao1
+- jing2
+- kang3
+- lin1
+- lun1
+- niang1
+- nuo1
+- sang3
+- xiang2
+- xin3
+- xiu1
+- zai2
+- zhan1
+
+Also, the following syllables have no sound files:
+
+- biang
+- dia
+- eng
+- fiao
+- kei
+- o
+- rua
+- tei
+- yai
+- yo
