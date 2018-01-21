@@ -10,7 +10,7 @@ Mandarin Chinese pinyin sounds in MP3 format
 Sounds for tones 1 through 4 are included, named `ling1.mp3` for 'līng', `luu4.mp3` for 'lǜ', etc.
 
 
-## Lacking sounds
+## Missing sounds
 
 Files for specific tones of certain syllables are not present:
 
@@ -19,7 +19,7 @@ Files for specific tones of certain syllables are not present:
 - diang1
 - diao1
 - jing2
-- kang3
+- kao3
 - lin1
 - lun1
 - niang1
