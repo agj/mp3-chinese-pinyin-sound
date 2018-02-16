@@ -20,11 +20,15 @@ Files for specific tones of certain syllables are not present:
 - diao1
 - jing2
 - kao3
+- lia3
+- lian4
 - lin1
 - lun1
 - niang1
 - nuo1
 - sang3
+- shen4
+- sheng4
 - xiang2
 - xin3
 - xiu1
