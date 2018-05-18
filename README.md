@@ -18,6 +18,7 @@ Files for specific tones of certain syllables are not present:
 - cuo2
 - diang1
 - diao1
+- hong2
 - jing2
 - kao3
 - lia3
@@ -29,6 +30,8 @@ Files for specific tones of certain syllables are not present:
 - sang3
 - shen4
 - sheng4
+- tiao1
+- tiao3
 - xiang2
 - xin3
 - xiu1
