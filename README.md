@@ -25,6 +25,7 @@ Files for specific tones of certain syllables are not present:
 - lian4
 - lin1
 - lun1
+- miao1
 - niang1
 - nuo1
 - sang3
